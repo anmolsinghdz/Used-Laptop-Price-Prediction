@@ -9,11 +9,6 @@ Welcome to the **Used Laptop Price Prediction** project! This repository contain
 - [Dataset](#dataset)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Model Performance](#model-performance)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Project Overview
 
